@@ -1,0 +1,1 @@
+Now make a standalone mockup of with front end interactions. Make it look like the finished implementation so I can show it to stakeholders.                                  
